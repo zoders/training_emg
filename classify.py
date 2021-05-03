@@ -23,7 +23,7 @@ import os
 #
 # plt.show()
 
-dataset_path = "full_dataset_test"
+dataset_path = "datasets/full_dataset_test"
 data = []
 labels = []
 muap_paths = []
