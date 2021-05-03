@@ -19,7 +19,7 @@ import cv2
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"  # for training on gpu
 print("[INFO] loading data...")
-dataset_path = "full_dataset"
+dataset_path = "datasets/full_dataset"
 data = []
 labels = []
 muap_paths = []
